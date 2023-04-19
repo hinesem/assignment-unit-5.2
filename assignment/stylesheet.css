@@ -1,0 +1,19 @@
+body {
+    background-image: url("/Users/eric/Documents/assignments/assignment-unit-5.2/assignment/record.png");
+    background-repeat: repeat-y;
+    margin: 0px;
+    background-color: #d3d3d3;
+}
+
+.banner {
+    background-color: rgba(166, 203, 217, 0.9);
+}
+main {
+
+    text-align: center;
+    margin-top: 2px;
+}
+
+h1 {
+    text-align: center;
+}
